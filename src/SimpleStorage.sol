@@ -19,7 +19,7 @@ contract SimpleStorage {
     // Function to store a favorite number
     function store(uint256 _favNumber) public virtual {
         favNumber = _favNumber;
-    } 
+    }
 
     // Function to retrieve the stored favorite number
     function retrieve() public view returns (uint256) {
