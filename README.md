@@ -64,3 +64,9 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+## zkSync Testnet Deploy Todo
+
+1. Install `foundry-zksync`
+2. Compile With `--zksync`
+3. Reinstall vanilla foundry 
